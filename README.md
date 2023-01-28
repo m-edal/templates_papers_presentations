@@ -1,29 +1,11 @@
-# General Guidance for presentations, papers, and code
+# General Guidance for papers, code, and presentations
 Zhonghua Zheng (zhonghua.zheng@outlook.com)
 
 ## Table of Contents
 
-- [presentations](#presentations)
 - [papers](#papers)
 - [code](#code)
-
-## presentations
-
-<details><summary><em>[Click to expand]</em></summary>
-
-- PowerPoint templates: ([link](https://www.staffnet.manchester.ac.uk/brand/visual-identity/guidelines/presentations/))
-
-- Beamer: [overleaf themes](https://www.overleaf.com/edu/theuniversityofmanchester#templates) or [Mark Kambites’ Beamer theme](http://www.maths.manchester.ac.uk/~mkambites/software.php)
-
-  - To make the purple background and white text for [Alex's theme](https://www.overleaf.com/latex/templates/university-of-manchester-presentation-beamer-template/rwcrzjmzcdyn) (from overleaf) based on the [blog](http://amundy.co.uk/2014/01/11/new-introduction-to-beamer-theme.html):
-
-    ```
-    \documentclass[11pt,aspectratio=169,ignorenonframetext,t]{beamer}
-    AND
-    \usetheme[darktitle,dark,framenumber,titleframestart=1]{UoM_alex}
-    ```
-    
-</details>
+- [presentations](#presentations)
 
 ## papers
 
@@ -99,3 +81,24 @@ Zhonghua Zheng (zhonghua.zheng@outlook.com)
 6. Before submitting the preprint and manuscript for the first time, using `2_submitted` to check the code
 
 </details>
+
+## presentations
+
+<details><summary><em>[Click to expand]</em></summary>
+
+- PowerPoint templates: ([link](https://www.staffnet.manchester.ac.uk/brand/visual-identity/guidelines/presentations/))
+
+- Beamer: [overleaf themes](https://www.overleaf.com/edu/theuniversityofmanchester#templates) or [Mark Kambites’ Beamer theme](http://www.maths.manchester.ac.uk/~mkambites/software.php)
+
+  - To make the purple background and white text for [Alex's theme](https://www.overleaf.com/latex/templates/university-of-manchester-presentation-beamer-template/rwcrzjmzcdyn) (from overleaf) based on the [blog](http://amundy.co.uk/2014/01/11/new-introduction-to-beamer-theme.html):
+
+    ```
+    \documentclass[11pt,aspectratio=169,ignorenonframetext,t]{beamer}
+    AND
+    \usetheme[darktitle,dark,framenumber,titleframestart=1]{UoM_alex}
+    ```
+    
+</details>
+
+## References
+- http://lagrange.mechse.illinois.edu/latex_quick_ref/
