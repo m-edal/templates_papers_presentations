@@ -11,7 +11,7 @@ Zhonghua Zheng (zhonghua.zheng@outlook.com)
 
 <details><summary><em>[Click to expand]</em></summary>
 
-1. name the repo `paper_xxx_journal`, e.g. `paper_UHWs_acp`
+1. name the private repo `paper_xxx_journal`, e.g. `paper_UHWs_acp`
 
 2. select `Add .gitignore:TeX`
 
@@ -40,6 +40,7 @@ Zhonghua Zheng (zhonghua.zheng@outlook.com)
    - name the latex file the same: `paper_xxx_journal.tex` (e.g. `paper_UHWs_acp.tex`)
    - name the bibtex file `refs_xxx_journal.bib` (e.g. `paper_UHWs_acp.bib`)
    - make a subdir for graphics called `graphics`, which includes all figures (we can reuse the the figures in other folders) 
+6. now you can download the files and import to Overleaf.    
 
 </details>
 
