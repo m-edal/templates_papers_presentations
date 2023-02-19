@@ -11,13 +11,13 @@ Zhonghua Zheng (zhonghua.zheng@outlook.com)
 
 <details><summary><em>[Click to expand]</em></summary>
 
-1. name the private repo `paper_xxx_journal`, e.g. `paper_UHWs_acp`
+1. create and name the private repo `paper_xxx_journal` (e.g. `paper_UHWs_acp`) in the [MEDAL organization](https://github.com/m-edal)
 
 2. select `Add .gitignore:TeX`
 
-3. add `*.DS_Store` and `paper_xxx_journal.pdf` (`paper_UHWs_acp.pdf`) to the `.gitignore` via webpage
+3. add `*.DS_Store` and `paper_xxx_journal.pdf` (`paper_UHWs_acp.pdf`) to the `.gitignore` file via webpage
 
-4. create the following folders for different paper versions  
+4. clone the repo and create the following folders for different paper versions  
    - 0_template (this will help you compare different template versions) 
    - 1_draft
    - 2_preprint
@@ -40,7 +40,8 @@ Zhonghua Zheng (zhonghua.zheng@outlook.com)
    - name the latex file the same: `paper_xxx_journal.tex` (e.g. `paper_UHWs_acp.tex`)
    - name the bibtex file `refs_xxx_journal.bib` (e.g. `paper_UHWs_acp.bib`)
    - make a subdir for graphics called `graphics`, which includes all figures (we can reuse the the figures in other folders) 
-6. now you can download the files and import to Overleaf.    
+6. now you can download the files and import to Overleaf
+7. please download the files from Overleaf and add them to your GitHub repository whenever you make significant changes (don't forget to commit!) 
 
 </details>
 
