@@ -17,7 +17,7 @@ Zhonghua Zheng (zhonghua.zheng@outlook.com)
 
 3. add `*.DS_Store` and `paper_xxx_journal.pdf` (`paper_UHWs_acp.pdf`) to the `.gitignore` file via webpage
 
-4. clone the repo and create the following folders for different paper versions  
+4. import the repo to Overleaf (Menu -> Sync -> GitHub) and create the following folders for different paper versions  
    - 0_template (this will help you compare different template versions) 
    - 1_draft
    - 2_preprint
@@ -36,12 +36,12 @@ Zhonghua Zheng (zhonghua.zheng@outlook.com)
      - submission_summary (folder or file)
    - ...
    - final_proofs   
-5. within each `manuscript` folder
+5. within each `manuscript` folder (and the `1_draft` and `2_preprint` folders)
    - name the latex file the same: `paper_xxx_journal.tex` (e.g. `paper_UHWs_acp.tex`)
    - name the bibtex file `refs_xxx_journal.bib` (e.g. `paper_UHWs_acp.bib`)
    - make a subdir for graphics called `graphics`, which includes all figures (we can reuse the the figures in other folders) 
-6. now you can download the files and import to Overleaf
-7. please download the files from Overleaf and add them to your GitHub repository whenever you make significant changes (don't forget to commit!) 
+6. Share your Overleaf project with your collaborators. 
+7. Always sync your Overleaf project (Menu -> Sync -> GitHub) whenever you make significant changes (e.g. each time prior to beginning and following completion).
 
 </details>
 
